@@ -33,7 +33,7 @@ The frontend is hosted on Vercel: [YouTube Clone Frontend](https://yt-clonerepo-
 ### Local Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sallytion/YT_clone.git
+   git clone https://github.com/Aayushmaansingh/youtubeclone.git
    cd YouTubeClone-NullClass
    ```
 
